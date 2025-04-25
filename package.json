@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "author": "Erik Larson",
-  "description": "",
+  "description": "A custom WordPress theme optimized for dynamic custom post types accessible via the WordPress REST API",
   "keywords": [],
   "license": "ISC",
   "scripts": {
