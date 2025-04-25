@@ -1,6 +1,7 @@
 {
   "arrowParens": "avoid",
   "bracketSameLine": true,
+  "plugins": ["@prettier/plugin-php"],
   "printWidth": 120,
   "semi": false,
   "singleQuote": true,
