@@ -1,0 +1,15 @@
+{
+  "name": "wp-headless-theme",
+  "version": "0.1.0",
+  "author": "Erik Larson",
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@prettier/plugin-php": "^0.22.4",
+    "prettier": "^3.6.2"
+  }
+}
