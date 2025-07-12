@@ -1,3 +1,3 @@
 # WP Headless Theme
 
-A custom WordPress theme developed as a headless CMS and optimized for using ACF and the WordPress REST API
+Custom WordPress theme built as a headless CMS, optimized for ACF and seamless REST API integration
