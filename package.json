@@ -2,7 +2,7 @@
   "name": "wp-headless-theme",
   "version": "0.1.0",
   "author": "Erik Larson",
-  "description": "",
+  "description": "A custom WordPress theme developed as a headless CMS and optimized for using ACF and the WordPress REST API",
   "keywords": [],
   "license": "ISC",
   "scripts": {
