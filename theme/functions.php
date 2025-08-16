@@ -1,6 +1,7 @@
 <?php
 namespace wpdev;
 
+include_once dirname(__DIR__) . '/classes/class-admin.php';
 include_once dirname(__DIR__) . '/classes/class-base.php';
 include_once dirname(__DIR__) . '/classes/class-editor.php';
 include_once dirname(__DIR__) . '/classes/class-menu.php';
