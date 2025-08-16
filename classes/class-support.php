@@ -23,6 +23,8 @@ class ThemeSupportConfig extends Base
     public function initThemeSupport()
     {
         $this->registerThemeSupport('post thumbnails');
+
+        $this->unregisterThemeSupport('widgets block editor');
     }
 
     /**
